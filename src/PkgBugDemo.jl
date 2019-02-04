@@ -1,0 +1,3 @@
+module PkgBugDemo
+
+end # module
